@@ -7,7 +7,7 @@
 <h3 align="center"> </h3>
 <p align="center"> 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/p0y0g" width="500"/>
+  <img src="https://render.gitanimals.org/farms/p0g0y" width="500"/>
 </a>
 </p>
 
